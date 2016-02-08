@@ -68,7 +68,7 @@ img.englishlogo {
 
 
 p.arabic_body {
-  font-family: NotoNaskhArabic;
+  font-family: "Noto Naskh Arabic";
   font-size: 30px;
   color: #11115B;
   line-height: 51px;
@@ -76,7 +76,7 @@ p.arabic_body {
 }
 
 p.english_body {
-  font-family: NotoSans;
+  font-family: 'Noto Sans', sans-serif;
   font-weight: regular;
   font-size: 17px;
   color: #11115B;
