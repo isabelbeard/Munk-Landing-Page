@@ -1,5 +1,8 @@
 /**** Setup ******/
 
+
+@import url(http://fonts.googleapis.com/earlyaccess/notonaskharabic.css);
+
 html {
   box-sizing: border-box;
 }
@@ -62,6 +65,7 @@ img.englishlogo {
 
 
 /*TEXT*/
+
 
 p.arabic_body {
   font-family: NotoNaskhArabic;
